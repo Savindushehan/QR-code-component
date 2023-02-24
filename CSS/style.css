@@ -48,9 +48,13 @@ body{
     font-size: 15px;
     
 }
-@media only screen and (max-width:1220px){
+@media only screen and (max-width: 1220px) {
     .background{
-        width: 20rem;
+        width: 365px;
         background-color: brown;
+        border: 2px solid red;
+    }
+    h1{
+        color: red;
     }
 }
