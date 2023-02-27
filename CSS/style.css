@@ -48,11 +48,10 @@ body{
     font-size: 15px;
     
 }
-@media screen and (min-width: 1220px) {
+@media screen and (max-width: 1220px) {
     .background{
         width: 365px;
-        background-color: brown;
-        border: 2px solid red;
-    }
+        
+            }
    
 }
