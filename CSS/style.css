@@ -18,8 +18,7 @@ body{
     background-color:  hsl(212, 45%, 89%);
     border-radius: 15px;
  }
-.image{
-    content: url("image-qr-code.png");
+.image img{
     max-width: 100%;
     max-height: 100%;
     margin: 1rem 1rem 0 1rem;
